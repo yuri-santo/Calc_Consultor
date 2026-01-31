@@ -35,6 +35,13 @@ Se quiser “nível SAP”, o caminho é:
 
 ## Como rodar
 
+### Opção 1 – Executável
+
+Acesse a pasta `dist/` e abra o arquivo executável.
+
+### Opção 2 – Via Python
+
 ```bat
 pip install --upgrade pip
 python calculadora.py
+
